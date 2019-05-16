@@ -25,6 +25,8 @@
   - Run Genymotion
   - run `react-native run-android`
 
+You could use the generated app-release.apk in the root folder.
+
 ## :no_entry_sign: Standard Compliant
 
 [![js-standard-style](https://cdn.rawgit.com/feross/standard/master/badge.svg)](https://github.com/feross/standard)
