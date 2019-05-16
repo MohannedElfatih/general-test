@@ -1,0 +1,4 @@
+#Thu May 16 12:16:15 GST 2019
+base.0=/Users/mac/Documents/nytimesTest/android/app/build/intermediates/transforms/dexMerger/release/0
+path.0=classes.dex
+renamed.0=classes.dex
